@@ -120,11 +120,6 @@ Creating the individual charts was only one stage. I also had to arrange them in
 
 The project reinforced the importance of checking how dashboard elements work together, rather than evaluating each chart independently.
 
-## Limitations
-
-This analysis uses Tableau's fictional Sample Superstore dataset, so the results should not be interpreted as the financial performance of a real retailer.
-
-The dashboard is descriptive. It identifies patterns and differences in historical data but does not establish their causes or forecast future performance.
 
 ## Live Dashboard
 
