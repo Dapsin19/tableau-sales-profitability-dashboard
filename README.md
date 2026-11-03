@@ -1,5 +1,5 @@
 # Sales & Profitability Analysis | Tableau
-
+![Sales and Profitability Tableau Dashboard](ChatGPT%20Image%20Nov%203%2C%202026%2C%2003_46_40%20PM.png)
 ## Project Overview
 
 High sales do not always translate into high profits. I built this Tableau dashboard to examine both measures across regions, product categories, and time using the Sample Superstore retail dataset.
